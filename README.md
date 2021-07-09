@@ -1,7 +1,7 @@
-# Winner-Take-All-Learning-Rule
+# Winner_Take_All
 ## 程式簡介
 ### 使用說明：
-> 透過視覺化界面展示「Winner-Take-All-Learning-Rule」的學習與聚類過程
+> 又稱 Winner Take All Learning Rule，透過視覺化界面展示其學習與聚類過程
 
 * 「學習率」與「訓練次數」皆可手動設定。
 
