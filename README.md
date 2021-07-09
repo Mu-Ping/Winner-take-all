@@ -68,7 +68,3 @@
 4. 此演算法「效果」與k-means演算法類似，都可以用來做「向量量化」(vector quantization)的工作
 ### 結論：
 此專案不著重在分群的Performance上，而是透過程式練習一些「非監督式學習」中很基礎的分群概念，以利延伸。
-
-
-@author： [Mu-Ping](https://github.com/Mu-Ping)  
-@e-mail： k0326jim@gmail.com
